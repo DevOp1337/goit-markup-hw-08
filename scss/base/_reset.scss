@@ -14,11 +14,7 @@ body {
     letter-spacing: 0.03em;
 
 }
-@media screen and (min-width: 900px) {
-    body {
-      background-color: red;
-    }
-  }
+
 
 a {
     text-decoration: none;
@@ -61,3 +57,4 @@ p {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
